@@ -3,7 +3,7 @@
 ## **Overview** 
 _Heroic greatness_
 
-_I am an accomplished software engineer with more than 10 years of experience on high-profile projects, looking for leadership role to create project success._
+_I am an accomplished software engineer with more than 10 years of experience on high-profile projects, looking for leadership role to engineer project success._
 
 ## **Technical Skills** 
 _Awesome excellence_
