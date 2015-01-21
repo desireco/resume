@@ -3,31 +3,31 @@
 ## **Overview** 
 _Heroic greatness_
 
-_I am an accomplished software engineer with more than 10 years of experience on high-profile projects, looking for leadership role to engineer project success._
+_I am an accomplished software engineer with more than 10 years of experience on high-profile projects, **looking for leadership role** to engineer project success._
 
 ## **Technical Skills** 
 _Awesome excellence_
 
 **_Apply methodologies:_** _Agile (Scrum and XP), Test Driven Development, System Analysis, Full Lifecycle Development, Object-Oriented Design and Development_
 
-**_Languages:_** _Ruby, Javascript, CoffeeScript, PHP_
+**_Languages:_** _Ruby, Javascript, CoffeeScript, PHP, dabble in Elixir, ClojureScript etc_
 
 **_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, Meteor, Laravel_
 
 **_UI:_** **_jQuery, Zurb Foundation, Bootstrap, Haml, Slim, UIKit..._** 
 
-**_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j_
+**_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j, RethinkDB_
 
-**_Testing:** _RSpec, Cucumber, Factory Girl, Capybara, Selenium, Jasmine, Watir_
+**_Testing:_** _RSpec, Cucumber, Factory Girl, Capybara, Selenium, Jasmine, Watir_
 
 ## **Experience** 
 _Sublime transcendence_
 
 ### **Lead Developer, ParkWhiz, Chicago** (Sep 2014-Current)
 
-- _Coordinate work with offshore team and provide support and guidance_
-- _Work as developer on Canada and Australia team_
-- _Improve test suite_
+- _Coordinate work with consulting team and provide support and guidance_
+- _Implement good practices like continous integration and code coverage_
+- _Implement api using engines_
 
 	**_Process: Ruby on Rails, RSpec, Cucumber, Agile_**
 
