@@ -9,10 +9,15 @@ _I am an accomplished software engineer with more than 10 years of experience on
 _Awesome excellence_
 
 **_Apply methodologies:_** _Agile (Scrum and XP), Test Driven Development, System Analysis, Full Lifecycle Development, Object-Oriented Design and Development_
+
 **_Languages:_** _Ruby, Javascript, CoffeeScript, PHP_
+
 **_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, Meteor, Laravel_
+
 **_UI:_** **_jQuery, Zurb Foundation, Bootstrap, Haml, Slim, UIKit..._** 
+
 **_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j_
+
 **_Testing:** _RSpec, Cucumber, Factory Girl, Capybara, Selenium, Jasmine, Watir_
 
 ## **Experience** 
