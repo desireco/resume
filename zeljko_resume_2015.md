@@ -3,7 +3,7 @@
 ## **Overview** 
 _Heroic greatness_
 
-_I am an accomplished software engineer with more than 10 years of experience on high-profile projects, specializing in application development using agile methods. I am best in a positive, challenging environment with forward-thinking colleagues in a role that lets me influence the project’s success._
+_I am an accomplished software engineer with more than 10 years of experience on high-profile projects, looking for leadership role to create project success._
 
 ## **Technical Skills** 
 _Awesome excellence_
