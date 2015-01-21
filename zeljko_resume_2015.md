@@ -14,7 +14,7 @@ _Awesome excellence_
 
 **_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, Meteor, Laravel_
 
-**_UI:_** **_jQuery, Zurb Foundation, Bootstrap, Haml, Slim, UIKit..._** 
+**_UI:_** _jQuery, Zurb Foundation, Bootstrap, Haml, Slim, UIKit..._
 
 **_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j, RethinkDB_
 
@@ -25,17 +25,17 @@ _Sublime transcendence_
 
 ### **Lead Developer, ParkWhiz, Chicago** (Sep 2014-Current)
 
-- _Coordinate work with consulting team and provide support and guidance_
-- _Implement good practices like continous integration and code coverage_
-- _Implement api using engines_
+* _Coordinate work with consulting team and provide support and guidance_
+* _Implement good practices like continous integration and code coverage_
+* _Implement api using engines_
 
 	**_Process: Ruby on Rails, RSpec, Cucumber, Agile_**
 
 ### **Lead Developer, Enova, Chicago** (May 2014-Sep 2014)
 
-- _Coordinate work with offshore team and provide support and guidance_
-- _Work as developer on Canada and Australia team_
-- _Improve test suite_
+* _Coordinate work with offshore team and provide support and guidance_
+* _Work as developer on Canada and Australia team_
+* _Improve test suite_
 
 	**_Process: Ruby on Rails, RSpec, Cucumber, Agile_**
 
@@ -47,28 +47,28 @@ _Sublime transcendence_
 
 	**_Process:_**  _Ruby on Rails, RSpec, Cucumber, Agile, Neo4j, MongoDB, Sass_
 
-### **_Senior Developer, BenchPrep, Chicago _(Apr 2011-Sept 2011)_
+### **Senior Developer, BenchPrep, Chicago** (Apr 2011-Sept 2011)
 
 - _Work on BenchPrep main product, implemented discussion feature_
 - _Introduced integration testing using Cucumber/Selenium_
 
 **_Process:_**  _Ruby on Rails, Backbone, CoffeeScript, RSpec, Cucumber, Agile_
 
-### **_Software Developer & Consultant, Obtiva/Groupon, Chicago _(Jul 2010-Apr 2011) 
+### **Software Developer & Consultant, Obtiva/Groupon, Chicago** (Jul 2010-Apr 2011) 
 
-- _Worked on key new features like merchant self servic_e center
+- _Worked on key new features like merchant self service center_
 - _Internal tools, involved in performance tuning initiatives._
 - _Created map visualisation of subscriber distribution for deal targeting_
 
 **_Process:_**  _Ruby on Rails, TDD, RSpec, Cucumber, Resque, Haml, Sass_
 
-### **_Developer & Frontend Lead, Obtiva/ManageMyHome.com, Chicago_** _(Jul 2009-Jun 2010)_ 
+### **Developer & Frontend Lead, Obtiva/ManageMyHome.com, Chicago** (Jul 2009-Jun 2010)
 
 - _ManageMyHome.com I was working on front-end and lead front end team in number of initiatives to bring standard based design, refactor and implement best practices_
 
 **_Process:_**  _Ruby on Rails, TDD, Scrum, RSpec, Cucumber, Selenium, Git, jQuery, Jasmine_
 
-### **_Software Developer & Consultant, Dakic OnLine, Chicago_** _(Jun 2008-Jul 2009)_
+### **Software Developer & Consultant, Dakic OnLine, Chicago** (Jun 2008-Jul 2009)
 
 _Notable Projects:_
 
