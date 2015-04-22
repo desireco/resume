@@ -25,7 +25,7 @@ _I am an accomplished software engineer with more than 10 years of experience on
 
 ### Experience
 
-**Lead Developer, ParkWhiz, Chicago** (Sep 2014-Current)
+**Lead Developer, ParkWhiz, Chicago** (Sep 2014-Apr 2015)
   Coordinate work with consulting team and provide support and guidance
   Implement good practices like continous integration and code coverage
   Implement api using engines
@@ -49,7 +49,7 @@ _I am an accomplished software engineer with more than 10 years of experience on
   Introduced integration testing using Cucumber/Selenium
   **Process:** _Ruby on Rails, Backbone, CoffeeScript, RSpec, Cucumber, Agile_
 
-**Software Developer & Consultant, Obtiva/Groupon, Chicago** (Jul 2010-Apr 2011) 
+**Software Developer & Consultant, Obtiva/Groupon, Chicago** (Jul 2010-Apr 2011)
   Worked on key new features like merchant self service center
   Internal tools, involved in performance tuning initiatives.
   Created map visualisation of subscriber distribution for deal targeting
