@@ -44,12 +44,6 @@ _I am an accomplished software engineer with more than 10 years of experience on
   Improve test suite
   **Process:** _Ruby on Rails, RSpec, Cucumber, Agile_
 
-**Lead Developer, Enova, Chicago** (May 2014-Sep 2014)
-  Coordinate work with offshore team and provide support and guidance
-  Work as developer on Canada and Australia team
-  Improve test suite
-  **Process:** _Ruby on Rails, RSpec, Cucumber, Agile_
-
 **Lead Developer, FitStudio/Sears Holdings, Chicago** (Dec 2011-Apr 2014)
   Plan, develop and maintain fitstudio.com
   Work as lead on searsstyle.com and part of kenmoreconnect.com team
