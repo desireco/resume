@@ -15,17 +15,12 @@ _I am an accomplished software engineer with more than 10 years of experience on
 
 ### Technology
 
-**_Apply methodologies:_** _Agile (Scrum and XP), Test Driven Development, System Analysis, Full Lifecycle Development, Object-Oriented Design and Development_
-
-**_Languages:_** _Ruby, Javascript(ES6, CoffeeScript and Node.js), PHP, dabble in Elixir, ClojureScript, Haskell etc_
-
-**_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, React.js + Native, RiotJS, Meteor, Volt_
-
-**_UI:_** _jQuery, Bourbon, Flexbox, Zurb Foundation, Bootstrap, Haml, Slim
-
-**_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j, RethinkDB_
-
-**_Testing:_** _RSpec, Cucumber, Factory Girl, Capybara, Selenium, Jasmine, Watir_
+* **_Apply methodologies:_** _Agile (Scrum and XP), Test Driven Development, System Analysis, Full Lifecycle Development, Object-Oriented Design and Development_
+* **_Languages:_** _Ruby, Javascript(ES6, CoffeeScript and Node.js), PHP, dabble in Elixir, ClojureScript, Haskell etc_
+* **_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, React.js + Native, RiotJS, Meteor, Volt_
+* **_UI:_** _jQuery, Bourbon, Flexbox, Zurb Foundation, Bootstrap, Haml, Slim
+* **_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j, RethinkDB_
+* **_Testing:_** _RSpec, Cucumber, Factory Girl, Capybara, Selenium, Jasmine, Watir_
 
 ------
 
