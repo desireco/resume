@@ -1,8 +1,9 @@
 # Zeljko Dakic
-## Senior Developer & Code Enthusiast
+## Senior Developer & Technologist & Code Enthusiast
 
 > [zeljko@gmail.com](mailto:zeljko@gmail.com)
-> [@desireco](http://twitter.com/desireco) [Github](http://www.github.com/desireco)
+> [@desireco](http://twitter.com/desireco) 
+> [Github](http://www.github.com/desireco)
 
 
 ------
@@ -15,9 +16,9 @@ _I am an accomplished software engineer with more than 10 years of experience on
 ### Technology
 
 **_Apply methodologies:_** _Agile (Scrum and XP), Test Driven Development, System Analysis, Full Lifecycle Development, Object-Oriented Design and Development_
-**_Languages:_** _Ruby, Javascript, CoffeeScript, PHP, dabble in Elixir, ClojureScript etc_
-**_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, Meteor, Laravel_
-**_UI:_** _jQuery, Zurb Foundation, Bootstrap, Haml, Slim, UIKit..._
+**_Languages:_** _Ruby, Javascript(ES6, CoffeeScript and Node.js), PHP, dabble in Elixir, ClojureScript, Haskell etc_
+**_Internet Development:_** _Rails, Node.js, Backbone, AngularJS, React.js + Native, RiotJS, Meteor, Volt_
+**_UI:_** _jQuery, Bourbon, Flexbox, Zurb Foundation, Bootstrap, Haml, Slim
 **_Manage & Model Databases:_** _MySQL, MS SQL Server, PostgreSQL, MongoDB, Redis, Neo4j, RethinkDB_
 **_Testing:_** _RSpec, Cucumber, Factory Girl, Capybara, Selenium, Jasmine, Watir_
 
@@ -26,11 +27,17 @@ _I am an accomplished software engineer with more than 10 years of experience on
 ### Experience
 
 **Lead Developer, ParkWhiz, Chicago** (Sep 2014-Apr 2015)
-  Coordinate work with consulting team and provide support and guidance
-  Implement good practices like continous integration and code coverage
-  Implement api using engines
+  Coordinate work with outside team and provide support and guidance 
+  Hire developers, train and onboard new developers
+  Implement features, break app to gem and api parts
+  Implement best practices, continuous integration, code quality
   **Process:** _Ruby on Rails, RSpec, Cucumber, Agile_
 
+**Lead Developer, Enova, Chicago** (May 2014-Sep 2014)
+  Coordinate work with offshore team and provide support and guidance
+  Work as developer on Canada and Australia team
+  Improve test suite
+  **Process:** _Ruby on Rails, RSpec, Cucumber, Agile_
 
 **Lead Developer, Enova, Chicago** (May 2014-Sep 2014)
   Coordinate work with offshore team and provide support and guidance
